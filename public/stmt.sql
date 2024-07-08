@@ -1,0 +1,1 @@
+UPDATE `product_inventory` SET `inv_qty` = NULL WHERE user_id = 77;
